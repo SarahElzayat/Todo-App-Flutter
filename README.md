@@ -9,7 +9,7 @@ Dart and Flutter were used.
 
 ## Screenshots
 
-![](https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif)
+![](https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif | width =100)
 
 
 ## Authors

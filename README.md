@@ -8,8 +8,9 @@ Dart and Flutter were used.
 
 
 ## Screenshots
+<img src="https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif" width="250" height="250"/>
 
-![](https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif | width =100)
+<!-- ![](https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif) -->
 
 
 ## Authors

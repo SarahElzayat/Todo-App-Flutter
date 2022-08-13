@@ -3,7 +3,7 @@
 
 A simple todo mobile application that allows you to add new tasks, mark them as done or archived.
 
-Dart and Flutter were used.
+I used Dart and Flutter with BLoC state management, and an SQFLite database.
 
 
 

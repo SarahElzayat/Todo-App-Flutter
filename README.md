@@ -8,7 +8,7 @@ Dart and Flutter were used.
 
 
 ## Screenshots
-<img src="https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif" width="250" height="250"/>
+<img src="https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif" width="603/2" height="1066/2"/>
 
 <!-- ![](https://github.com/SarahElzayat/TodoApp/blob/master/gif/todo.gif) -->
 
